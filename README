@@ -1,0 +1,31 @@
+# HackerRank Math Problems Solutions
+
+This repository contains solutions to various math problems from HackerRank. These solutions are designed to help you prepare for technical data science interview questions.
+
+## Repository Structure
+
+- Each solution is provided in a separate Python file.
+- The solutions cover a wide range of math topics commonly encountered in technical interviews.
+
+## How to Use
+
+1. Clone the repository to your local machine.
+2. Navigate to the directory containing the problem you want to solve.
+3. Run the Python file corresponding to the problem to see the solution.
+
+## Topics Covered
+
+- Algebra
+- Probability
+- Statistics
+- Number Theory
+- Combinatorics
+- Geometry
+
+## Contributing
+
+Contributions are welcome! If you have a solution to a new problem or an improvement to an existing solution, feel free to submit a pull request.
+
+## License
+
+This repository is licensed under the MIT License. See the LICENSE file for more information.
