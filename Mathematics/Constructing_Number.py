@@ -13,7 +13,7 @@ import sys
 # The function accepts INTEGER_ARRAY a as parameter.
 #
 
-## MM: Iniitially I thought of looping through all combinations of the numbers and checking if the sum is divisible by 3. But that would be a very inefficient solution.
+## MM: Iniitially I thought of looping through all combinations of the numbers and checking if they is divisible by 3. But that would be a very inefficient solution.
 ## Trying to learn from some of the other problems, I figured there was a rule to check if a larger number was divisible by 3.
 ## Turns out, this is true (and made the problem much easier). If the sum of the digits of a number is divisible by 3, then the number itself is divisible by 3.
 
