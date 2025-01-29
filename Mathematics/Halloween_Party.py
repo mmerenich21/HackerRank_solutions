@@ -16,6 +16,7 @@ import sys
 ## MM: Initially, I created a list of all possible combinations of row x column where the sum of row/column was k, but it was not efficient (it produced the correct answer, but not without runtme errors for large k values).
 ## Then I realized the pattern of maximum area of the rectangle for a given k. If k is even, the maximum area is (k/2)^2. If k is odd, the maximum area is floor(k/2)*ceil(k/2).
 ## I implemented this pattern in the function below.
+## TESTING GIT PUSH
 
 def halloweenParty(k):
     max_sum = 0
